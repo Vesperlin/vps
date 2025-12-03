@@ -1,0 +1,4 @@
+1 filter=lfs diff=lfs merge=lfs -text
+ppanel-admin-web filter=lfs diff=lfs merge=lfs -text
+ppanel-server-linux-amd64 filter=lfs diff=lfs merge=lfs -text
+ppanel-user-web filter=lfs diff=lfs merge=lfs -text
